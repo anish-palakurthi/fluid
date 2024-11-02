@@ -4,7 +4,7 @@ Fluid is the best way to write. Tree-style versioning, LLM-powered inline edits,
 
 ## Features
 
-- **Tree-Style Versioning**: Track document history with an intuitive branching structure
+- **Tree-Style Versioning**: CMD+Z just doesn't cut it! Track document history with an intuitive branching structure
 - **LLM-Powered Editing**: Inline edits that make copy-paste a thing of the past
 - **Knowledge Graphs**: Create and maintain token-efficient knowledge representations for future prompting
 - **Word Count Limits**: Guarantee strict adherence to limits while writing with the best suggestions to achieve them
